@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Amplify, API, graphqlOperation } from 'aws-amplify';
 import { createPersonalInfo } from './graphql/mutations';
-import { listPersonalInfos } from './graphql/queries'
 
 import awsconfig from './aws-exports';
 
