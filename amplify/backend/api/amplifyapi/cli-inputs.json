@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyapi",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/rafael/ReactProjects/amplify-api/amplify/backend/api/amplifyapi/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-07-26T11:55:14.929Z",
+      "keyDescription": "personalInfo"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
